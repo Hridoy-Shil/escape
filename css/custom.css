@@ -1,0 +1,157 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+#scrollUp {
+    text-indent: -999999px;
+    bottom: 10px;
+    right: 20px;
+    padding: 10px 20px;
+    background: url(../img/Back_to_Top_Button.png);
+    background-size: 100% auto;
+    width: 50px;
+    height: 50px;
+    height: 50px;
+    position: fixed;
+}
+
+/*header area start*/
+#header-area{
+    padding: 10px 0 50px 0;
+    background-image: url(../img/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+#header-area .menu ul li a{
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff !important;
+    padding: 0 20px !important;
+}
+
+#header-area .header-content{
+    color: ;
+    padding-top: 15%;  
+    color: #fff;
+}
+#header-area .header-content h4{
+    font-size: 28px;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+#header-area .header-content h2{
+    font-size: 60px;
+    font-weight: 600;
+    text-transform: uppercase;
+ 
+}
+#header-area .header-content .btn-custom{
+    border: 2px solid #fff;
+    padding: 15px 40px;
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+    margin-top: 70px;
+}
+#header-area .header-content .btn-custom:hover{
+    color: 
+}
+/*header area end*/
+
+
+/*development area start*/
+#development{
+    padding: 90px 0;
+}
+#development .develop-img img{
+  padding-top: 70px;
+}
+
+#development .develop-content h2, #development2 .develop-content h2{
+  font-size: 60px;
+    padding-bottom: 30px;
+}
+
+#development .develop-content p{
+  text-align: justify;
+    font-size: 16px;
+    line-height: 24px;
+}
+#development2{
+    padding: 80px 0px;
+     background-color: #f7f4f4;
+}
+
+/*development area end*/
+
+
+/*fetured-area start*/
+#fetured-area{
+    padding: 100px 0;
+}
+#fetured-area .icon{
+    width: 70px;
+    height: 70px;
+    background-color: #100f0f;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 83px;
+    cursor: pointer;
+    padding: 
+
+}
+
+#fetured-area .icon i{
+    color: #fff;
+    font-size: 35px;
+    
+}
+#fetured-area .icon-text h3{
+    font-size: 28px;
+    font-weight: 600;
+}
+
+#fetured-area .icon-text p{
+    font-size: 16px;
+    text-align: justify;
+    padding-bottom: 20px;
+}
+
+/*fetured-area end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*    footer-area start*/
+#footer-area {
+    padding: 20px 0;
+}
+
+#footer-area p {
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+}
+
+/*    footer-area end*/
